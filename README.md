@@ -25,7 +25,7 @@ pip3 install sphinx_docsearch
 ```
 
 ```
-pip install sphinxcontrib-images
+pip3 install sphinxcontrib-images
 ```
 
 **Configure the Envirnment**
