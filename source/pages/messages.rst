@@ -3,8 +3,7 @@ Messages
 
 **Admin Panel Sidebar:**
 
-.. thumbnail:: ../images/Admin-Panel.png
-  :title: Sidebar
+.. image:: ../images/Admin-Panel.png
   
 |
 | **Messages(1)**
