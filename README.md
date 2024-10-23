@@ -1,6 +1,6 @@
 **To Install Sphinx**
 ```
-pip3 install -U sphinx
+pip3 install -U sphinx==7.3.7
 ```
 
 **Install The Theme**
