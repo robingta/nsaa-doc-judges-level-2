@@ -7,10 +7,11 @@ NSAA
 
     pages/home
     pages/messages
+    pages/reminders
     pages/downloads
-    pages/online-test
     pages/personal-development
-    pages/online-rules-meeting
     pages/application-to-judge-district-and-state
+    pages/online-test
+    pages/online-rules-meeting
     pages/contracts-to-judge-districts-and-state
     pages/links-contacts-and-rosters
