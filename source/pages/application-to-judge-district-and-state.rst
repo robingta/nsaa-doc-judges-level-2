@@ -4,7 +4,7 @@ Aplication to Judge Districts & State
 
 .. image:: ../images/application_to_judges.png
   
-By clicking **"Aplication to Judge Districts & State"** will take you to the Online Rules Meetings page.
+By clicking **"Application to Judge Districts & State"** will take you to the Online Rules Meetings page.
 
 .. thumbnail:: ../images/apps_to_judges_pp.png
   :title: Aplication to Judge Districts & State for Play Production.
