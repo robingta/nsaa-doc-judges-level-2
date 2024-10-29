@@ -5,7 +5,7 @@ Messages
 
 .. image:: ../images/Admin-Panel.png
   
-|
+
 | **Messages**
 
 |   The labeled item **Messages** Clicking this option redirects the user to the messages page, where they can view messages for play production or speech.
