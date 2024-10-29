@@ -1,6 +1,8 @@
 Online Rules Meeting
 ==========================
 
+**Admin Panel Sidebar:**
+
 .. image:: ../images/onlinerules.png
 
 By clicking **"Online Rules Meetings"** will take you to the Online Rules Meetings page.

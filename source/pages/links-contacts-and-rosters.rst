@@ -1,6 +1,15 @@
 Links, Contacts & Rosters
 ===========================
 
+**Admin Panel Sidebar:**
+
+.. image:: ../images/roster-sidebar.png
+  
+**Links, Contacts & Rosters**
+
+The labeled item **Links, Contacts & Rosters** Clicking this option redirects the user to the Links, Contacts & Rosters page, where they can view Links, Contacts & Rosters for play production or speech.
+
+
 .. thumbnail:: ../images/link_roster.png
   :title: Links, Contacts & Rosters
   
@@ -18,6 +27,7 @@ Selecting a roster will take you to the roster details page.
 
 .. thumbnail:: ../images/roster.png
   :title: Rosters For Speech
+
 This is roster details for Speech.
 
 **Export Button (No. 1):**

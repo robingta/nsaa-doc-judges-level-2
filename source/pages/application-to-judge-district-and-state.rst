@@ -1,6 +1,7 @@
 Aplication to Judge Districts & State
 ======================================
 
+**Admin Panel Sidebar:**
 
 .. image:: ../images/application_to_judges.png
   

@@ -1,9 +1,11 @@
 Home
 ===================
 
+**Admin Panel Sidebar:**
+
 .. image:: ../images/home.png
  
-This is the sidebar for hompage(1).By clicking home will take you to the homepage.
+This is the sidebar for **Home**.By clicking **Home** will take you to the homepage.
 
 .. thumbnail:: ../images/home_page.png
   :title: Judges Homepage.
