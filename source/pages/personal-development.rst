@@ -3,7 +3,7 @@ Personal Development
 
 * Navigate to the **Personal Development** section from the sidebar.
 
-.. image:: ../images/personal-dev/personal-dev.png
+.. image:: ../images/personal-dev/personal-dev-1.png
 
 * Upon selection, five distinct categories will be displayed: **I Am Willing, Workshops, Conventions, Continuing Education, and Endorsement**.
 

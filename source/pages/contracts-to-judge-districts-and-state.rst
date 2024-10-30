@@ -3,7 +3,7 @@ Contracts to Judge Districts & State
 
 * Select **Contracts To Judge Districts & State** from the sidebar.
 
-.. image:: ../images/contracts/contracts-1.png
+.. image:: ../images/contracts/con-1.png
 
 * This section displays two options: **Play Production** and **Speech**.
 
