@@ -15,7 +15,7 @@ load_dotenv()
 
 # -- Project information ---
 
-project = "NSAA Play Production / Speech Judges"
+project = "NSAA Judges"
 author = "Critical It Group"
 copyright = f"{author}."
 
@@ -65,7 +65,7 @@ extlinks = {
 add_module_names = False
 
 # -- Options for HTML output ---
-
+html_show_sphinx = False
 html_title = project
 html_theme = "sphinxawesome_theme"
 html_last_updated_fmt = ""
