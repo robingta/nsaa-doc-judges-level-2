@@ -1,4 +1,10 @@
-**To Install Sphinx**
+**To Install Sphinx Windows**
+```
+pip install -r requirements.txt
+```
+
+
+**To Install Sphinx Linux**
 ```
 pip3 install -U sphinx==7.3.7
 ```
@@ -57,3 +63,5 @@ sphinx-autobuild ./source ./build --port 8080
 ```
 make html
 ```
+
+
