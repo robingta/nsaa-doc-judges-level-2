@@ -1,5 +1,5 @@
 Home
-===================
+========
 
 **Admin Panel Sidebar:**
 
@@ -9,6 +9,7 @@ This is the sidebar for **Home**.By clicking **Home** will take you to the homep
 
 .. thumbnail:: ../images/home_page.png
   :title: Judges Homepage.
+
 This is the homepage.
 
 The judge's profile details **(marked as 1)** are displayed in this section, such as their name, email, address, and phone number.
