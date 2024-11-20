@@ -27,6 +27,8 @@ Contracts to Judge Districts & State
 
     * Clicking on a **contract** opens the confirmation form for the selected contest.
 
-    .. thumbnail:: ../images/contracts/close-6.png
+    * You can submit the form by clicking the **Submit** button
+
+    .. thumbnail:: ../images/contracts/submission-part-6.png
     
     * At the bottom of the form, a **Close** button allows you to close the form when finished.

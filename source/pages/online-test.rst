@@ -27,6 +27,6 @@ Online Tests
 
 * To view specific answers, click on View Results to open the Test Results page.
 
-    .. thumbnail:: ../images/online-tests/res-7.png
+    .. thumbnail:: ../images/online-tests/answers-7.png
     
 * On the Test Results page, please note: if **two answers are acceptable** for a question, **both answers will be shown as valid**.

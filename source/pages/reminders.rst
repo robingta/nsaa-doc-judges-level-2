@@ -29,9 +29,10 @@ Reminders
     
     3. Here, you can view the total number of questions, select your preferred answers, and save your responses by clicking the Save button.
 
-    .. thumbnail:: ../images/reminders/exam-6.png
+    .. thumbnail:: ../images/reminders/examination-6.png
 
     .. thumbnail:: ../images/reminders/dropdown-7.png
+        :width: 200px
     
     4. Once completed, click Finish Submission to preview your answers.
 
