@@ -13,7 +13,7 @@ The labeled item **Links, Contacts & Rosters** Clicking this option redirects th
 .. thumbnail:: ../images/link_roster.png
   :title: Links, Contacts & Rosters
   
-|
+
 **Play Production Tab (No. 1):**
 This tab is selected to display Play Production contacts and rosters.
 **Speech Tab (No. 2):**
