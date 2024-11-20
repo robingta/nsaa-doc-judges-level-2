@@ -7,3 +7,4 @@ sphinx-autobuild==2024.4.16
 sphinx-docsearch==0.0.7
 sphinxcontrib-images==0.9.4
 python-dotenv==1.0.1
+ghp-import==2.1.0
